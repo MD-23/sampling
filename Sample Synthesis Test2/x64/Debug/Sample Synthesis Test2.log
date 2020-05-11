@@ -1,0 +1,12 @@
+﻿  Sample.cpp
+C:\Users\Mr_Gigawatt\source\repos\Sample Synthesis Test2\Sample.cpp(24,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Mr_Gigawatt\source\repos\Sample Synthesis Test2\Sample.cpp(26,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mr_Gigawatt\source\repos\Sample Synthesis Test2\Sample.cpp(27,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mr_Gigawatt\source\repos\Sample Synthesis Test2\Sample.cpp(34,37): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Mr_Gigawatt\source\repos\Sample Synthesis Test2\Sample.cpp(119,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mr_Gigawatt\source\repos\Sample Synthesis Test2\Sample.cpp(131,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sample Synthesis Test2.vcxproj -> C:\Users\Mr_Gigawatt\source\repos\Sample Synthesis Test2\x64\Debug\Sample Synthesis Test2.exe

@@ -1,0 +1,2 @@
+C:\Users\Mr_Gigawatt\source\repos\Sample Synthesis Test2\x64\Debug\Sample Synthesis Test2.exe
+C:\Users\Mr_Gigawatt\source\repos\Sample Synthesis Test2\x64\Debug\Sample Synthesis Test2.pdb
